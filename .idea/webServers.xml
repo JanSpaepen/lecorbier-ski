@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c24856e9-d21c-486c-bef5-b0b95eda7478" name="Lecorbier" url="http://www.lecorbier-ski.be">
+        <fileTransfer rootFolder="/customers/3/b/6/lecorbier-ski.be/httpd.www" accessType="SFTP" host="ssh.lecorbier-ski.be" port="22" sshConfigId="0e2c48b9-4138-480f-aea3-78bd3e72decc" sshConfig="lecorbier-ski.be@ssh.lecorbier-ski.be:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

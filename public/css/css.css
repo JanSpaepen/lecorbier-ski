@@ -1,0 +1,27 @@
+.hoofd {
+
+    background-image: url("../img/MontCorbier.jpg");
+}
+.bold {
+    fill: none;
+    stroke: rgb(153, 146, 175);
+    stroke-width: 1px;
+}
+
+.normal {
+    fill: none;
+    stroke: black;
+    stroke-width: 0px;
+}
+
+.svg{
+    background: url("../img/LeCorbierTop.png") ;
+    height: 488px;
+    width:494px;
+    background-attachment: scroll;
+    align-items: center;
+
+
+
+
+}
